@@ -89,7 +89,7 @@ section{
 #linkgit{
     background-color: transparent;
     color: whitesmoke;
-    text-shadow: 2px 2px 3px #2c231b;
+    text-shadow: 2px 2px 4px #2c231b;
 }
 #imagem{
     flex: 1;
