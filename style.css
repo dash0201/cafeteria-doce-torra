@@ -86,6 +86,10 @@ section{
 #insta{
     background: none;
 }
+#linkgit{
+    background: none;
+    text-shadow: 2px 2px 3px #2c231b;
+}
 #imagem{
     flex: 1;
     text-align: right;
