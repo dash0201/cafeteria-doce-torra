@@ -87,7 +87,7 @@ section{
     background: none;
 }
 #linkgit{
-    background: transparent;
+    background-color: transparent;
     color: whitesmoke;
     text-shadow: 2px 2px 3px #2c231b;
 }
